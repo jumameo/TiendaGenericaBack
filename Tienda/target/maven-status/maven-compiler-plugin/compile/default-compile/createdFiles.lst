@@ -1,0 +1,4 @@
+com\grupo5\Tienda\model\Usuarios.class
+com\grupo5\Tienda\TiendaApplication.class
+com\grupo5\Tienda\dao\UsuariosDAO.class
+com\grupo5\Tienda\api\UsuariosAPI.class
